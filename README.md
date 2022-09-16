@@ -1,1 +1,1 @@
-# hs-frontend
+# HoneySquad front-end
